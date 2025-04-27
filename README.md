@@ -1,4 +1,11 @@
 # Intelligent Task Manager 🧪
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.8+-blue?logo=python" alt="Python Version">
+  <img src="https://img.shields.io/badge/Flet-0.28+-orange?logo=flet" alt="Flet Framework">
+  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey" alt="Cross Platform">
+  <img src="https://img.shields.io/badge/License-MIT-green" alt="MIT License">
+  <img src="https://img.shields.io/badge/Made%20With-%E2%9D%A4-red" alt="Made with Love">
+</p>
 
 ## Introduction 📚
 
