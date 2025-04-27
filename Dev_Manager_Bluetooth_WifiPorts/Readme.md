@@ -163,13 +163,6 @@ python wifi.py
 
 ---
 
-## License 📝
-
-This project is licensed under the **MIT License**.  
-See the [LICENSE](LICENSE) file for more details.
-
----
-
 ## Final Notes 🎯
 
 - Restart your system after USB/Bluetooth changes for full effect.
